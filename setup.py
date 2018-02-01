@@ -29,6 +29,7 @@ setup(
     download_url =  'https://github.com/fastai/fastai/archive/0.6.tar.gz',
     install_requires =
      ['awscli', 'bcolz', 'bleach', 'certifi', 'cycler', 'decorator', 'entrypoints', 'feather-format', 'graphviz', 'html5lib',
+      'ipykernel', 'ipython', 'ipython-genutils', 'ipywidgets',
       'isoweek', 'jedi', 'Jinja2', 'jsonschema', 'kaggle-cli', 
       'MarkupSafe', 'matplotlib', 'mistune', 'numpy', 'olefile', 'pandas',
       'pandas_summary', 'pandocfilters', 'pexpect', 'pickleshare', 'Pillow', 'plotnine', 'prompt-toolkit',
