@@ -29,12 +29,11 @@ setup(
     download_url =  'https://github.com/fastai/fastai/archive/0.6.tar.gz',
     install_requires =
      ['awscli', 'bcolz', 'bleach', 'certifi', 'cycler', 'decorator', 'entrypoints', 'feather-format', 'graphviz', 'html5lib',
-      'ipykernel', 'ipython', 'ipython-genutils', 'ipywidgets', 'isoweek', 'jedi', 'Jinja2', 'jsonschema', 'jupyter',
-      'jupyter-client', 'jupyter-console', 'jupyter_contrib_nbextensions', 'jupyter-core', 'kaggle-cli', 'MarkupSafe',
-      'matplotlib', 'mistune', 'nbconvert', 'nbformat', 'notebook', 'numpy', 'olefile', 'pandas',
+      'isoweek', 'jedi', 'Jinja2', 'jsonschema', 'kaggle-cli', 
+      'MarkupSafe', 'matplotlib', 'mistune', 'numpy', 'olefile', 'pandas',
       'pandas_summary', 'pandocfilters', 'pexpect', 'pickleshare', 'Pillow', 'plotnine', 'prompt-toolkit',
-      'ptyprocess', 'Pygments', 'pyparsing', 'python-dateutil', 'pytz', 'PyYAML', 'pyzmq', 'qtconsole', 'scipy',
-      'seaborn', 'simplegeneric', 'six', 'sklearn_pandas', 'terminado', 'testpath', 'torchtext', 'tornado', 'tqdm',
+      'ptyprocess', 'Pygments', 'pyparsing', 'python-dateutil', 'pytz', 'PyYAML', 'pyzmq', 'scipy',
+      'seaborn', 'simplegeneric', 'six', 'sklearn_pandas', 'terminado', 'testpath', 'torchtext', 'tqdm',
       'traitlets', 'wcwidth', 'webencodings', 'widgetsnbextension'],
     keywords = ['deeplearning', 'pytorch', 'machinelearning'],
     classifiers = ['Development Status :: 3 - Alpha', 'Programming Language :: Python', 'Programming Language :: Python :: 3.6']
